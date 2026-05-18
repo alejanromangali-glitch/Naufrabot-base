@@ -1,6 +1,6 @@
-//Base 100% Editable creditos a Naufrabot 
+//Base 100% Editable creditos a Alexitho 
 
-//Página oficial naufrabot.com
+//Página oficial Alexitho.com
 
 //Sígueme en todas mis redes para estar informados con las novedades de la base 
 
